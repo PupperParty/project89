@@ -23,7 +23,7 @@ body{
 }
 #output
 {
-background-color: white;
+background-color: rgb(211, 181, 46);
 border-radius: 10px;
 border-top: 10px solid #AA4465;
 padding: 10px;
@@ -34,3 +34,4 @@ text-align: left;
 {
 	color: rgb(232, 124, 253);
 }
+
